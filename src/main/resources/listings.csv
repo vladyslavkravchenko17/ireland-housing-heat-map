@@ -1,0 +1,1001 @@
+address,dealType,price,propertyType,bedrooms,size
+Tipperary,sale,21945,Studio Apartment,0,33
+Monaghan County,rent,542,End of Terrace House,2,124
+Roscommon,sale,162120,Site,0,772
+Dun Laoghaire,rent,2397,Duplex,2,127
+Kilkenny County,sale,109089,Terraced House,1,93
+Leitrim County,sale,281663,Bungalow,3,185
+Cork,rent,3145,Terraced House,5,208
+Mayo County,sale,226772,Semi Detached House,2,178
+Galway City,rent,1281,Detached House,1,116
+Laois County,sale,248160,Site,0,1034
+Dun Laoghaire,sale,1462296,House,3,191
+Tycor,sale,645120,Detached House,5,256
+Clare County,rent,696,Duplex,2,128
+Louth County,rent,906,Terraced House,3,137
+Kilkenny County,rent,1051,Terraced House,4,161
+Cork,rent,2827,Townhouse,5,187
+Wicklow County,sale,204516,Terraced House,1,114
+Kilkeary,sale,135378,Townhouse,1,109
+Tycor,sale,185328,Terraced House,2,132
+Meath County,sale,183040,Apartment,2,128
+Cavan County,rent,515,Terraced House,2,118
+Tuam,sale,271948,Duplex,3,155
+Mullingar,rent,67,Studio Apartment,0,32
+Wicklow County,sale,352950,Site,0,905
+Offaly County,sale,437760,House,4,228
+South Dublin,rent,2873,Detached House,1,122
+Kilkenny County,rent,1457,Townhouse,5,204
+Kildare County,sale,433840,House,3,170
+Roscommon,rent,1031,House,2,177
+Sligo County,rent,1103,Semi Detached House,3,194
+Kimmage,sale,272550,Bungalow,1,158
+Mayo County,rent,1474,Semi Detached House,4,235
+Offaly County,rent,436,Duplex,1,115
+Donegal County,sale,215904,Terraced House,4,173
+Tipperary,sale,688940,House,5,259
+Kimmage,rent,1448,House,2,174
+South Dublin,sale,720000,Site,0,750
+Monaghan County,sale,324800,Detached House,3,200
+Offaly County,sale,506100,Detached House,5,241
+Waterford County,rent,1172,Site,0,1149
+Roscommon,sale,100464,End of Terrace House,1,104
+Kilkenny County,sale,168402,Terraced House,2,127
+Wexford County,rent,2631,House,5,261
+Louth County,rent,1475,Site,0,1294
+Louth County,sale,141807,Duplex,1,118
+Cavan County,rent,620,Site,0,738
+Dun Laoghaire,rent,6462,Detached House,3,211
+Longford County,sale,301980,Site,0,1438
+Tipperary,sale,581875,Semi Detached House,5,250
+Waterford County,rent,1909,Bungalow,4,234
+Limerick City,sale,283920,Terraced House,2,130
+Longford County,rent,1002,House,2,172
+Tipperary,rent,769,Detached House,1,110
+Dun Laoghaire,sale,872784,Townhouse,3,152
+Galway City,sale,539760,Detached House,2,173
+Tycor,sale,222372,End of Terrace House,3,142
+Roscommon,rent,1261,Bungalow,3,207
+Waterford County,rent,418,Townhouse,1,89
+Kilkenny County,sale,461312,House,4,212
+Monaghan County,rent,874,Site,0,1041
+Meath County,rent,3102,House,5,277
+Galway City,sale,369840,Detached House,1,134
+Roscommon,sale,188048,Detached House,1,146
+Kilkenny County,sale,177684,Terraced House,2,134
+Kildare County,sale,695310,Semi Detached House,5,258
+Leitrim County,sale,242550,Duplex,5,180
+Meath County,rent,137,Studio Apartment,0,49
+Roscommon,rent,82,Studio Apartment,0,42
+Wicklow County,sale,37310,Studio Apartment,0,41
+Kildare County,sale,296670,Terraced House,3,155
+Mayo County,sale,163009,Duplex,3,146
+Waterford County,sale,176358,End of Terrace House,2,133
+Kilkeary,rent,960,House,1,145
+Kimmage,rent,1478,Semi Detached House,3,182
+Waterford County,rent,71,Studio Apartment,0,30
+Sligo County,rent,1051,Apartment,5,195
+Tipperary,rent,1560,House,3,177
+Galway City,rent,1589,Site,0,883
+Dun Laoghaire,sale,1535985,Bungalow,3,214
+Mullingar,sale,15750,Studio Apartment,0,30
+Galway City,sale,328613,Bungalow,1,127
+Offaly County,rent,1060,End of Terrace House,4,184
+Fingal,sale,943888,Duplex,4,173
+Offaly County,sale,153000,Site,0,680
+Tycor,rent,755,Detached House,1,114
+Roscommon,rent,1811,House,5,231
+Monaghan County,rent,421,Townhouse,1,109
+Limerick City,sale,431340,Bungalow,2,158
+Wexford County,sale,251640,Site,0,932
+Laois County,rent,757,Terraced House,3,136
+Kilkenny County,rent,1059,Apartment,4,177
+Limerick City,sale,430080,Terraced House,4,160
+Mullingar,rent,1261,Semi Detached House,3,207
+South Dublin,sale,814080,Site,0,848
+Meath County,rent,672,Site,0,560
+Limerick County,rent,1931,Terraced House,5,209
+Kilkeary,sale,394470,Site,0,1461
+Mayo County,sale,126672,Terraced House,2,116
+Carlow County,sale,276480,Townhouse,4,180
+Roscommon,sale,493920,House,5,252
+Dun Laoghaire,rent,8628,Bungalow,5,249
+Meath County,rent,587,Duplex,1,116
+Fingal,rent,312,Studio Apartment,0,36
+Cavan County,rent,761,Site,0,906
+South Dublin,rent,2826,Bungalow,1,128
+Donegal County,sale,188760,Apartment,4,165
+Cork,rent,1577,Detached House,1,119
+Tycor,sale,265356,Semi Detached House,2,162
+Cavan County,sale,135408,End of Terrace House,2,124
+Wexford County,rent,472,Townhouse,1,95
+Laois County,sale,255840,Bungalow,2,164
+Kerry County,rent,1436,Townhouse,5,190
+Galway City,sale,819840,Semi Detached House,4,244
+Fingal,rent,3714,Detached House,2,144
+Offaly County,sale,370800,Bungalow,4,206
+Sligo County,sale,89436,Duplex,1,101
+Wexford County,sale,324864,End of Terrace House,4,188
+Donegal County,rent,1141,Townhouse,5,209
+Dun Laoghaire,rent,4228,Apartment,4,182
+Tipperary,sale,149454,End of Terrace House,1,114
+Longford County,sale,107226,Terraced House,1,111
+Wicklow County,sale,177606,Duplex,1,108
+Kerry County,rent,1535,Semi Detached House,3,210
+Fingal,rent,4262,Townhouse,4,179
+Cork County,rent,1136,Terraced House,2,130
+Leitrim County,sale,126224,Semi Detached House,1,112
+Limerick County,sale,197340,Terraced House,2,115
+Waterford County,sale,355470,Site,0,1394
+Mullingar,rent,585,Townhouse,2,125
+Wicklow County,rent,1847,Semi Detached House,3,175
+Leitrim County,sale,139440,Site,0,664
+Tycor,rent,517,End of Terrace House,1,104
+Wexford County,sale,552960,Detached House,4,240
+Monaghan County,rent,773,House,1,150
+Limerick County,rent,947,Terraced House,2,138
+Carlow County,rent,1129,Bungalow,2,181
+Sligo County,sale,17640,Studio Apartment,0,36
+Tycor,sale,329670,Site,0,1221
+Sligo County,sale,97405,Duplex,1,110
+Wexford County,rent,472,Townhouse,1,95
+Clare County,rent,2937,Detached House,5,276
+Tipperary,sale,122579,Apartment,1,102
+Tipperary,sale,668325,Bungalow,5,268
+Tycor,sale,388368,House,3,186
+Cork,sale,953856,House,4,207
+Kilkenny County,sale,125511,End of Terrace House,1,107
+Carlow County,sale,213440,House,1,145
+Galway City,sale,178365,Apartment,1,94
+Kildare County,sale,164197,Duplex,1,118
+Donegal County,sale,379080,Bungalow,4,243
+Fingal,rent,4464,Duplex,5,187
+Laois County,sale,550200,Bungalow,5,262
+Dun Laoghaire,rent,4112,Apartment,4,177
+Tycor,rent,492,Apartment,1,108
+Carlow County,sale,341504,House,3,184
+Laois County,rent,1127,Duplex,5,183
+Fingal,rent,2057,Apartment,2,116
+Sligo County,rent,1087,Site,0,1294
+Tycor,sale,327780,Site,0,1214
+Limerick County,sale,377520,Detached House,2,165
+Leitrim County,sale,239400,Site,0,1140
+Offaly County,rent,986,Detached House,2,158
+Mullingar,sale,535500,House,5,255
+Offaly County,rent,740,House,1,134
+Tipperary,rent,1134,Bungalow,2,153
+Tipperary,rent,861,Apartment,3,142
+Wexford County,rent,546,Townhouse,1,110
+Tipperary,sale,341088,End of Terrace House,4,187
+Kimmage,sale,686000,Detached House,5,245
+Galway City,sale,315900,Townhouse,2,135
+Cavan County,sale,127127,Duplex,2,127
+Roscommon,rent,513,Duplex,2,128
+Waterford County,sale,155584,Duplex,2,128
+Tuam,rent,990,Duplex,3,141
+Wicklow County,rent,2042,End of Terrace House,5,187
+Offaly County,sale,233325,Site,0,1037
+Galway City,sale,231840,Terraced House,1,112
+Kerry County,sale,279936,End of Terrace House,4,162
+Kildare County,rent,1770,Bungalow,3,185
+Monaghan County,sale,183918,End of Terrace House,3,151
+Laois County,sale,356160,Terraced House,5,212
+Fingal,rent,1934,Terraced House,1,113
+Meath County,sale,349440,House,2,168
+Carlow County,rent,2312,Detached House,5,258
+Limerick County,sale,180895,Apartment,2,115
+Offaly County,sale,324450,Townhouse,5,206
+Cork,sale,650412,Semi Detached House,3,178
+Cork County,rent,165,Studio Apartment,0,42
+Kilkeary,rent,971,End of Terrace House,3,155
+Fingal,sale,1569344,Semi Detached House,4,226
+Limerick County,sale,384384,Townhouse,4,182
+Galway City,sale,233910,Terraced House,1,113
+Tuam,rent,2738,Semi Detached House,5,254
+Galway City,rent,3965,Detached House,5,236
+Tipperary,rent,2597,Semi Detached House,5,279
+Kildare County,sale,582912,Detached House,4,207
+Limerick City,sale,823200,Semi Detached House,5,240
+Leitrim County,sale,77924,Apartment,1,88
+Kilkenny County,rent,76,Studio Apartment,0,32
+Cork County,sale,913360,House,5,233
+Dun Laoghaire,sale,715770,Site,0,723
+Cork,sale,319176,Apartment,2,124
+Clare County,sale,133722,End of Terrace House,1,102
+Donegal County,sale,94559,Duplex,1,115
+Laois County,sale,516600,Bungalow,5,246
+Tuam,sale,515504,House,3,202
+Monaghan County,rent,579,Site,0,689
+Dun Laoghaire,sale,1051050,Semi Detached House,2,175
+Tipperary,rent,1790,House,3,203
+Kimmage,sale,255000,Site,0,850
+Fingal,rent,8233,Semi Detached House,5,271
+Mullingar,rent,1129,House,2,181
+Cork County,sale,177744,Townhouse,1,92
+Tipperary,sale,295488,End of Terrace House,4,162
+Kildare County,rent,1793,End of Terrace House,5,194
+Limerick City,rent,184,Studio Apartment,0,47
+Limerick City,rent,827,End of Terrace House,1,107
+Clare County,sale,21945,Studio Apartment,0,33
+Mullingar,sale,225720,Apartment,4,171
+Monaghan County,rent,711,Site,0,846
+Cork,sale,761940,Site,0,1411
+Tycor,sale,220806,Terraced House,3,141
+Kildare County,sale,145728,Terraced House,1,96
+Roscommon,rent,76,Studio Apartment,0,39
+Louth County,sale,321024,Terraced House,4,176
+Mullingar,rent,945,Duplex,4,179
+Roscommon,rent,533,End of Terrace House,2,122
+Roscommon,rent,898,Townhouse,4,167
+Leitrim County,sale,294000,Terraced House,5,200
+Limerick County,sale,238612,Apartment,3,136
+Roscommon,sale,294420,Site,0,1402
+Longford County,rent,1267,House,3,195
+Limerick County,sale,533280,Bungalow,4,202
+Galway City,rent,193,Studio Apartment,0,46
+Monaghan County,rent,892,Townhouse,4,166
+Tycor,sale,612990,Semi Detached House,5,278
+Leitrim County,sale,301980,Site,0,1438
+Roscommon,sale,229824,Townhouse,4,171
+Kilkenny County,sale,27370,Studio Apartment,0,46
+Kerry County,sale,198099,Apartment,3,138
+Offaly County,rent,667,Semi Detached House,1,138
+South Dublin,sale,609024,Terraced House,2,122
+Louth County,sale,247665,Site,0,869
+Louth County,sale,598168,Semi Detached House,5,257
+Kimmage,sale,432825,Bungalow,3,199
+Leitrim County,rent,550,End of Terrace House,2,126
+Fingal,rent,5666,Semi Detached House,4,204
+Roscommon,rent,632,Site,0,752
+South Dublin,sale,1257984,Detached House,2,189
+South Dublin,sale,1646592,House,4,201
+Leitrim County,sale,411600,Semi Detached House,5,240
+Offaly County,rent,825,Townhouse,3,158
+Limerick County,rent,95,Studio Apartment,0,31
+Cork,rent,2495,Site,0,1155
+Mayo County,rent,716,Townhouse,3,147
+Clare County,sale,279224,Apartment,4,167
+Wicklow County,rent,1858,Semi Detached House,3,176
+Kerry County,sale,381780,Terraced House,5,202
+Carlow County,rent,1729,House,4,211
+Longford County,rent,1229,End of Terrace House,5,209
+Cavan County,rent,1094,Terraced House,5,186
+Wicklow County,sale,31850,Studio Apartment,0,35
+Kimmage,rent,868,Detached House,1,118
+Dun Laoghaire,rent,2389,Terraced House,2,116
+Dun Laoghaire,rent,5500,Site,0,1389
+Sligo County,sale,428288,House,4,239
+Kimmage,rent,1260,Apartment,4,179
+Kimmage,rent,2181,Detached House,4,213
+Tuam,sale,27720,Studio Apartment,0,36
+Wexford County,sale,122958,Terraced House,1,99
+Tipperary,rent,476,Apartment,1,99
+Kimmage,rent,724,End of Terrace House,2,116
+Roscommon,sale,19110,Studio Apartment,0,39
+Kilkeary,rent,1415,House,2,189
+Donegal County,sale,160680,Site,0,824
+Dun Laoghaire,sale,2402400,House,5,260
+Fingal,rent,4262,Townhouse,4,179
+Kimmage,sale,463680,Semi Detached House,4,207
+Tipperary,sale,236550,Site,0,830
+Waterford County,sale,507960,Bungalow,4,249
+Tipperary,sale,236379,Townhouse,3,143
+Tuam,sale,201344,Duplex,2,128
+Kerry County,sale,546048,House,4,237
+Limerick City,sale,582120,End of Terrace House,5,198
+Waterford County,sale,120428,Apartment,1,112
+Limerick City,rent,842,Terraced House,1,109
+Kilkenny County,sale,224808,Townhouse,3,152
+Limerick County,sale,791560,House,5,257
+Louth County,rent,514,Duplex,1,107
+Kildare County,sale,28490,Studio Apartment,0,37
+Limerick City,sale,450912,Apartment,4,183
+Limerick City,sale,472080,Site,0,1124
+Kerry County,rent,1052,Apartment,4,166
+Cork County,rent,4265,House,5,272
+Dun Laoghaire,rent,4765,Townhouse,4,188
+Cork,sale,558090,Bungalow,2,159
+Donegal County,rent,60,Studio Apartment,0,33
+Tipperary,sale,458432,Detached House,3,208
+Limerick County,sale,191906,Apartment,2,122
+Cavan County,rent,1105,Apartment,5,205
+Wexford County,rent,1206,Semi Detached House,2,184
+Cork,sale,429084,Townhouse,3,137
+Carlow County,sale,25760,Studio Apartment,0,46
+Cavan County,rent,1332,Detached House,3,205
+Cork,sale,46620,Studio Apartment,0,37
+Kimmage,sale,202800,End of Terrace House,2,130
+Mullingar,sale,108158,Apartment,1,114
+Wexford County,rent,769,End of Terrace House,2,137
+Donegal County,rent,76,Studio Apartment,0,42
+South Dublin,sale,82880,Studio Apartment,0,37
+Tycor,rent,452,Terraced House,1,91
+Leitrim County,rent,1037,House,2,178
+Cavan County,rent,1527,Detached House,4,213
+Longford County,rent,844,Detached House,2,145
+Kildare County,rent,1793,Terraced House,5,194
+Kimmage,sale,192000,Site,0,640
+Dun Laoghaire,rent,2678,Semi Detached House,1,126
+Mayo County,rent,443,Site,0,527
+Clare County,sale,135033,End of Terrace House,1,103
+Waterford County,rent,1008,Bungalow,2,152
+Monaghan County,sale,147420,End of Terrace House,2,135
+Cavan County,sale,357840,Bungalow,4,213
+Monaghan County,rent,529,Apartment,2,132
+Cork,rent,2777,Semi Detached House,3,190
+Meath County,rent,1632,Apartment,5,212
+Clare County,rent,1156,Site,0,1014
+Fingal,rent,4014,Bungalow,2,166
+Roscommon,rent,96,Studio Apartment,0,49
+Laois County,sale,556500,Bungalow,5,265
+Offaly County,sale,117990,End of Terrace House,1,114
+Tuam,rent,961,Apartment,3,137
+Kilkeary,rent,1182,Townhouse,4,171
+Mullingar,rent,1184,End of Terrace House,5,188
+Kilkenny County,sale,26775,Studio Apartment,0,45
+Galway City,sale,174570,Apartment,1,92
+Kimmage,sale,316800,End of Terrace House,4,165
+Kilkenny County,rent,819,Apartment,3,151
+Kilkenny County,rent,93,Studio Apartment,0,39
+Kilkenny County,sale,506048,Semi Detached House,5,243
+Limerick County,rent,1756,End of Terrace House,5,190
+South Dublin,rent,5315,Site,0,1384
+Louth County,sale,111763,Apartment,1,93
+Fingal,sale,1634816,Detached House,4,206
+Kerry County,sale,302400,Townhouse,4,175
+Cork County,rent,970,Terraced House,2,111
+Kimmage,sale,269400,Site,0,898
+Cavan County,rent,505,Site,0,601
+Louth County,sale,611800,House,5,230
+Roscommon,rent,848,Apartment,4,172
+Offaly County,rent,882,Duplex,4,167
+Tycor,rent,1128,Apartment,4,178
+Dun Laoghaire,rent,1967,Townhouse,1,108
+Waterford County,rent,83,Studio Apartment,0,35
+Kildare County,rent,1070,Semi Detached House,1,151
+Kerry County,rent,1120,Townhouse,4,162
+Tycor,sale,411336,Detached House,3,197
+Limerick City,rent,4077,House,5,260
+Leitrim County,rent,594,Terraced House,2,136
+Cavan County,sale,177828,Terraced House,3,146
+Cavan County,rent,88,Studio Apartment,0,45
+Carlow County,sale,397440,Bungalow,4,207
+Kildare County,sale,36960,Studio Apartment,0,48
+Monaghan County,rent,488,Duplex,2,122
+Donegal County,rent,981,Duplex,5,196
+Limerick County,sale,156354,End of Terrace House,1,103
+Waterford County,rent,1132,Site,0,1110
+Dun Laoghaire,rent,4685,Bungalow,2,182
+Fingal,rent,3634,Site,0,977
+Tipperary,rent,593,Terraced House,1,113
+Wicklow County,sale,438750,Site,0,1125
+Kerry County,sale,221904,House,1,134
+Mayo County,rent,639,Apartment,3,143
+Tycor,rent,1407,Apartment,5,203
+Waterford County,rent,1151,Semi Detached House,2,186
+Sligo County,rent,1139,Site,0,1356
+Limerick City,sale,358092,End of Terrace House,3,147
+Offaly County,sale,204885,Townhouse,3,157
+Meath County,rent,1713,Semi Detached House,3,211
+Tuam,sale,370656,House,2,162
+Tipperary,sale,180263,Bungalow,1,110
+Wicklow County,rent,941,Townhouse,2,116
+Dun Laoghaire,sale,742154,Duplex,3,141
+Cork,rent,2078,Duplex,4,164
+Kilkeary,sale,366660,Terraced House,5,194
+Mullingar,sale,109106,Duplex,1,115
+Kilkeary,sale,225374,Apartment,3,157
+Fingal,sale,1380864,Detached House,3,192
+Waterford County,rent,497,End of Terrace House,1,106
+Mullingar,rent,985,Terraced House,4,171
+Leitrim County,sale,470400,Detached House,5,240
+Louth County,sale,438596,Detached House,3,199
+Cork,rent,227,Studio Apartment,0,45
+Cavan County,rent,1247,Terraced House,5,212
+Sligo County,rent,524,End of Terrace House,2,120
+Tipperary,sale,176358,Terraced House,2,119
+Laois County,rent,2088,Detached House,5,233
+Monaghan County,rent,537,End of Terrace House,2,123
+Wexford County,sale,30870,Studio Apartment,0,49
+Clare County,rent,1478,Apartment,5,202
+Offaly County,sale,180090,Townhouse,3,138
+Tycor,rent,1223,End of Terrace House,4,177
+Clare County,sale,267786,End of Terrace House,3,162
+Carlow County,sale,483000,Bungalow,5,230
+Wexford County,sale,19530,Studio Apartment,0,31
+Mayo County,rent,872,Duplex,4,177
+Kimmage,sale,358050,Apartment,5,186
+Cork,sale,649728,End of Terrace House,4,188
+Cavan County,rent,568,End of Terrace House,2,130
+Waterford County,rent,1321,Terraced House,5,185
+Wicklow County,sale,548730,Terraced House,5,201
+Laois County,sale,378112,Semi Detached House,4,211
+Carlow County,rent,1778,Semi Detached House,4,248
+Offaly County,sale,468480,House,4,244
+Donegal County,sale,187616,Duplex,4,164
+Cork County,rent,1646,Duplex,4,167
+Tipperary,rent,80,Studio Apartment,0,30
+Leitrim County,sale,191226,Terraced House,3,157
+Monaghan County,sale,231504,Detached House,2,159
+Monaghan County,sale,165669,Semi Detached House,1,147
+Tipperary,rent,1028,Detached House,1,147
+Galway City,rent,1073,Duplex,2,125
+Offaly County,sale,16800,Studio Apartment,0,32
+Meath County,rent,721,Apartment,2,126
+Wicklow County,rent,1470,Bungalow,2,145
+Leitrim County,rent,398,Townhouse,1,103
+Cavan County,rent,815,House,2,140
+Cavan County,rent,545,Apartment,2,136
+Cavan County,rent,407,Duplex,1,115
+Galway City,sale,689040,House,3,198
+Leitrim County,rent,1137,Apartment,5,211
+Tipperary,sale,396720,House,3,180
+Tuam,rent,1638,House,2,179
+Cork,sale,751680,House,3,180
+Cavan County,sale,236544,Terraced House,4,176
+Wicklow County,rent,2845,Bungalow,4,228
+Meath County,sale,328640,House,2,158
+Monaghan County,sale,90321,Duplex,1,102
+Galway City,sale,547200,Site,0,1216
+Waterford County,sale,293760,End of Terrace House,4,180
+Donegal County,rent,84,Studio Apartment,0,46
+Wexford County,sale,158652,Terraced House,2,113
+Sligo County,rent,643,Duplex,3,144
+Waterford County,rent,102,Studio Apartment,0,43
+Fingal,rent,1540,Terraced House,1,90
+Offaly County,sale,212520,Apartment,4,161
+Dun Laoghaire,rent,5336,Apartment,5,210
+Dun Laoghaire,rent,4131,Terraced House,4,163
+Fingal,sale,1327823,Semi Detached House,3,211
+Roscommon,sale,167475,Duplex,3,150
+Laois County,sale,193952,Apartment,3,152
+Sligo County,rent,1606,Bungalow,4,239
+Roscommon,sale,124488,Townhouse,2,114
+Waterford County,sale,168402,Townhouse,2,127
+Offaly County,rent,90,Studio Apartment,0,43
+Louth County,sale,654360,House,5,246
+Mayo County,sale,95634,End of Terrace House,1,99
+Limerick County,rent,865,Bungalow,1,114
+Kilkeary,sale,203688,Detached House,1,123
+Donegal County,rent,89,Studio Apartment,0,49
+Cork County,rent,1966,Bungalow,2,180
+Mullingar,sale,89010,Townhouse,1,86
+Donegal County,sale,333840,Bungalow,4,214
+Kerry County,rent,1414,End of Terrace House,5,187
+Offaly County,rent,1089,Terraced House,4,189
+Donegal County,rent,611,Terraced House,3,135
+Leitrim County,sale,527240,House,5,269
+Limerick City,rent,726,Townhouse,1,94
+Carlow County,rent,863,Site,0,899
+Galway City,rent,1869,Duplex,4,177
+Roscommon,rent,1035,Duplex,5,192
+Meath County,sale,125580,Terraced House,1,91
+Louth County,rent,2514,Semi Detached House,5,270
+Galway City,sale,491040,Apartment,4,186
+Kilkenny County,rent,1095,Apartment,4,183
+Donegal County,rent,814,Site,0,1044
+Kilkeary,rent,76,Studio Apartment,0,30
+Kilkeary,rent,965,End of Terrace House,3,154
+Meath County,sale,152400,Site,0,508
+Louth County,sale,103350,Apartment,1,86
+Wexford County,sale,276480,Terraced House,4,160
+Kilkeary,rent,542,Duplex,1,119
+Laois County,sale,199056,End of Terrace House,3,143
+Cavan County,sale,243264,Terraced House,4,181
+Leitrim County,sale,88550,Apartment,1,100
+Kildare County,sale,285186,End of Terrace House,3,149
+Tipperary,rent,1636,End of Terrace House,5,205
+Leitrim County,sale,243264,End of Terrace House,4,181
+Wicklow County,rent,1169,Duplex,3,141
+Leitrim County,rent,799,End of Terrace House,3,164
+Wicklow County,sale,279864,End of Terrace House,2,138
+Tuam,rent,1502,Bungalow,2,175
+Tycor,rent,452,Townhouse,1,91
+Monaghan County,rent,94,Studio Apartment,0,48
+Cork County,sale,382452,Terraced House,3,157
+Offaly County,rent,1181,Semi Detached House,3,194
+Louth County,rent,1570,Bungalow,3,190
+Kilkeary,rent,2046,House,4,222
+Limerick County,sale,206063,Apartment,2,131
+Laois County,rent,1544,Bungalow,4,201
+Cavan County,sale,17150,Studio Apartment,0,35
+Kilkenny County,rent,2041,Semi Detached House,5,245
+Clare County,rent,1484,End of Terrace House,5,186
+Kilkenny County,rent,947,End of Terrace House,3,160
+Mullingar,rent,1049,Site,0,1166
+Cork County,sale,394632,Terraced House,3,162
+Galway City,rent,729,Apartment,1,96
+Wexford County,rent,1250,Bungalow,2,178
+Mullingar,rent,364,End of Terrace House,1,88
+Kildare County,rent,625,Townhouse,1,103
+Kilkenny County,rent,88,Studio Apartment,0,37
+Fingal,rent,269,Studio Apartment,0,31
+Kerry County,rent,1444,Site,0,1337
+Roscommon,rent,379,Duplex,1,107
+Clare County,rent,959,End of Terrace House,3,145
+South Dublin,sale,983040,Townhouse,4,160
+Tuam,sale,27720,Studio Apartment,0,36
+Tipperary,sale,249945,Site,0,877
+Louth County,sale,404985,End of Terrace House,5,203
+Kilkeary,rent,2055,Semi Detached House,5,233
+Leitrim County,sale,125097,Semi Detached House,1,111
+Mayo County,rent,1101,House,2,189
+Limerick City,sale,362880,Site,0,864
+Laois County,rent,545,Apartment,2,119
+Laois County,sale,252720,Bungalow,2,162
+Waterford County,sale,215934,Terraced House,3,146
+Clare County,rent,1484,Townhouse,5,186
+Tuam,sale,480480,Terraced House,5,208
+South Dublin,sale,2038400,Semi Detached House,5,260
+Waterford County,sale,355215,Townhouse,5,199
+Kerry County,sale,184748,Bungalow,1,119
+Longford County,rent,717,Semi Detached House,1,159
+Wexford County,rent,1629,Semi Detached House,4,202
+Kilkenny County,sale,337365,End of Terrace House,5,189
+Sligo County,sale,122122,Duplex,2,122
+Donegal County,sale,210912,Detached House,2,156
+Cavan County,rent,328,Terraced House,1,85
+Cork,sale,379080,End of Terrace House,2,135
+Cavan County,rent,612,Apartment,3,137
+Cork,sale,1152900,Bungalow,5,244
+Mullingar,rent,1145,Semi Detached House,3,188
+Tuam,rent,3084,Bungalow,5,267
+Tycor,sale,223146,Semi Detached House,1,154
+Laois County,sale,163200,Site,0,680
+Sligo County,sale,321552,Detached House,3,198
+Tipperary,rent,1350,Terraced House,4,185
+Tuam,sale,440220,Bungalow,3,184
+Kilkenny County,sale,531038,Semi Detached House,5,255
+South Dublin,sale,631488,Apartment,2,138
+Dun Laoghaire,rent,5211,Terraced House,5,188
+Carlow County,rent,2070,House,5,231
+Carlow County,rent,1032,End of Terrace House,4,168
+Kilkeary,sale,23310,Studio Apartment,0,37
+Limerick City,rent,2340,End of Terrace House,5,199
+Donegal County,sale,275730,Townhouse,5,202
+Mullingar,rent,980,House,2,157
+Cork,rent,854,Townhouse,1,86
+Carlow County,sale,106260,Duplex,1,105
+Sligo County,rent,541,Apartment,2,135
+Waterford County,rent,2342,House,5,246
+Sligo County,sale,185136,Townhouse,3,152
+Leitrim County,sale,302978,Bungalow,3,199
+Monaghan County,sale,272832,Semi Detached House,3,192
+Carlow County,rent,592,Semi Detached House,1,115
+Clare County,rent,1335,End of Terrace House,4,183
+South Dublin,sale,76160,Studio Apartment,0,34
+Offaly County,rent,851,End of Terrace House,3,163
+Tipperary,sale,111763,Apartment,1,93
+Mayo County,rent,1056,Duplex,5,196
+Wicklow County,rent,3478,Semi Detached House,5,273
+Louth County,rent,846,House,1,121
+Roscommon,sale,177828,Townhouse,3,146
+Kerry County,sale,23940,Studio Apartment,0,38
+Roscommon,sale,277585,Apartment,5,206
+Dun Laoghaire,sale,428076,Townhouse,1,94
+Donegal County,rent,1849,House,5,254
+Tipperary,rent,2479,Detached House,5,233
+Limerick County,sale,141933,Apartment,1,102
+Monaghan County,rent,1143,Apartment,5,212
+South Dublin,rent,6685,Detached House,4,204
+Kimmage,sale,311520,Duplex,4,177
+Mayo County,rent,1088,Townhouse,5,185
+Longford County,rent,773,Detached House,1,150
+Dun Laoghaire,rent,4765,Townhouse,4,188
+Laois County,sale,216660,Bungalow,1,157
+Wicklow County,rent,1166,Bungalow,1,130
+Fingal,sale,1621920,Bungalow,4,218
+Carlow County,sale,529200,Bungalow,5,252
+Waterford County,sale,472192,Semi Detached House,4,248
+Kildare County,sale,233376,Townhouse,2,136
+Donegal County,rent,78,Studio Apartment,0,43
+Waterford County,sale,172040,House,1,110
+Wicklow County,sale,466752,End of Terrace House,4,187
+Fingal,sale,938432,Duplex,4,172
+Limerick County,rent,1521,Terraced House,4,180
+Mullingar,rent,835,End of Terrace House,3,160
+Clare County,rent,1288,House,2,163
+Wicklow County,sale,480480,Duplex,5,192
+Galway City,sale,456720,Duplex,4,173
+Waterford County,rent,870,Terraced House,3,147
+Limerick County,sale,421383,Duplex,5,199
+Wicklow County,rent,1162,Site,0,745
+Offaly County,sale,146475,Site,0,651
+Kilkeary,rent,753,Semi Detached House,1,130
+Limerick City,sale,439712,House,2,151
+Meath County,sale,431100,Site,0,1437
+Sligo County,sale,166359,Duplex,3,149
+Limerick County,sale,193908,Terraced House,2,113
+Dun Laoghaire,rent,8004,Bungalow,5,231
+Cork County,rent,2187,Townhouse,5,186
+Leitrim County,sale,544880,Detached House,5,278
+Longford County,sale,244608,Townhouse,4,182
+Cork County,rent,850,End of Terrace House,1,110
+Waterford County,rent,374,Apartment,1,87
+Longford County,sale,122122,Duplex,2,122
+Meath County,rent,1726,Detached House,3,186
+Kilkenny County,sale,304343,Duplex,5,186
+South Dublin,rent,1766,Townhouse,1,100
+Wexford County,sale,286416,Detached House,2,153
+Limerick City,sale,185472,Terraced House,1,96
+Kilkeary,sale,22050,Studio Apartment,0,35
+Kilkeary,rent,447,Townhouse,1,90
+Fingal,rent,5078,Townhouse,5,195
+Fingal,rent,3387,Terraced House,3,157
+South Dublin,sale,2213120,House,5,247
+Meath County,rent,938,Duplex,3,147
+Offaly County,sale,184005,End of Terrace House,3,141
+Donegal County,rent,579,Bungalow,1,129
+South Dublin,sale,1695744,House,4,207
+Carlow County,rent,863,Terraced House,3,155
+Kerry County,rent,2812,Detached House,5,279
+Mayo County,sale,200655,Bungalow,2,147
+Tipperary,sale,490200,Bungalow,4,215
+Wexford County,rent,1244,Townhouse,4,180
+Limerick County,rent,940,Terraced House,2,137
+Clare County,rent,800,Bungalow,1,122
+Wexford County,sale,125442,End of Terrace House,1,101
+Meath County,sale,523200,Bungalow,4,218
+Tycor,sale,20790,Studio Apartment,0,33
+Dun Laoghaire,sale,1441440,End of Terrace House,5,208
+South Dublin,sale,2326800,Bungalow,5,277
+Limerick County,rent,2501,Semi Detached House,5,232
+Mayo County,rent,652,Apartment,3,146
+Kerry County,sale,174096,Terraced House,2,124
+Wexford County,sale,124200,Townhouse,1,100
+Kildare County,sale,327184,House,2,143
+Louth County,sale,469680,Bungalow,4,206
+Kilkeary,rent,81,Studio Apartment,0,32
+Tuam,rent,1618,Duplex,5,191
+Kimmage,rent,602,Site,0,502
+Limerick County,rent,983,Duplex,3,140
+Mayo County,sale,128856,Terraced House,2,118
+Roscommon,sale,169302,End of Terrace House,3,139
+Wexford County,sale,212454,Duplex,3,148
+Tycor,sale,524790,Semi Detached House,5,238
+Wexford County,rent,524,Duplex,1,115
+Leitrim County,sale,21070,Studio Apartment,0,43
+Leitrim County,sale,269850,Site,0,1285
+Cavan County,sale,115920,Site,0,552
+Meath County,sale,27300,Studio Apartment,0,39
+Roscommon,rent,919,Townhouse,4,171
+Longford County,sale,411600,Semi Detached House,5,240
+Kerry County,rent,1272,Townhouse,4,184
+Sligo County,sale,160776,Duplex,3,144
+Leitrim County,rent,367,Townhouse,1,95
+Galway City,sale,35700,Studio Apartment,0,34
+Clare County,sale,29925,Studio Apartment,0,45
+Meath County,rent,1275,Townhouse,4,166
+Waterford County,rent,1101,Bungalow,2,166
+Longford County,rent,1036,Site,0,1233
+Fingal,sale,953498,Semi Detached House,2,169
+Mayo County,sale,224224,Apartment,4,182
+Clare County,rent,1476,End of Terrace House,5,185
+Wicklow County,sale,154583,Apartment,1,94
+Offaly County,sale,100567,Duplex,1,106
+South Dublin,sale,1827840,Bungalow,4,238
+Offaly County,sale,272160,Townhouse,4,189
+Kerry County,sale,384480,Site,0,1424
+Fingal,sale,970176,Townhouse,4,163
+Tipperary,sale,349752,House,2,177
+South Dublin,sale,2058000,Bungalow,5,245
+Sligo County,rent,1218,Bungalow,3,200
+Carlow County,rent,1084,Site,0,1129
+Roscommon,sale,230384,Apartment,4,187
+Kilkeary,sale,356895,Apartment,5,206
+Cork,sale,387585,Apartment,3,135
+Cavan County,sale,93863,Duplex,1,106
+Kerry County,sale,275616,Duplex,4,174
+Cavan County,sale,90804,Terraced House,1,94
+Mayo County,sale,288463,Semi Detached House,3,203
+Tuam,rent,934,End of Terrace House,2,136
+Clare County,rent,481,Duplex,1,100
+Wicklow County,rent,171,Studio Apartment,0,47
+Donegal County,rent,1150,Site,0,1474
+Cork,sale,321300,Site,0,595
+Waterford County,rent,1061,House,2,150
+Wexford County,rent,821,Apartment,3,143
+Meath County,sale,21700,Studio Apartment,0,31
+Limerick City,sale,348348,Terraced House,3,143
+Kerry County,rent,1754,Detached House,3,210
+Kilkenny County,sale,18445,Studio Apartment,0,31
+Sligo County,sale,93863,Duplex,1,106
+Louth County,sale,381045,Townhouse,5,191
+Meath County,sale,346200,Site,0,1154
+Dun Laoghaire,sale,890010,Townhouse,3,155
+Mayo County,rent,1612,Semi Detached House,5,235
+Kildare County,rent,136,Studio Apartment,0,44
+Cavan County,rent,716,Terraced House,3,147
+Tipperary,sale,377055,Townhouse,5,189
+Waterford County,rent,447,Duplex,1,104
+Leitrim County,sale,218064,Apartment,4,177
+Fingal,sale,697175,Duplex,3,141
+Kilkeary,rent,2339,House,5,232
+Meath County,rent,2195,Semi Detached House,4,245
+Limerick County,sale,29260,Studio Apartment,0,38
+Kilkenny County,sale,179010,Terraced House,2,135
+Longford County,sale,304290,End of Terrace House,5,207
+Laois County,rent,846,Townhouse,3,152
+South Dublin,sale,1251328,Detached House,2,188
+Tipperary,sale,235980,Site,0,828
+Sligo County,sale,540960,Detached House,5,276
+Tycor,rent,672,Semi Detached House,1,116
+Kildare County,sale,448140,End of Terrace House,5,194
+Cavan County,sale,306023,Bungalow,3,201
+Tipperary,sale,654360,Detached House,5,246
+Kildare County,rent,2133,Bungalow,4,202
+Cavan County,sale,171738,Townhouse,3,141
+Offaly County,rent,417,Duplex,1,110
+Kilkenny County,rent,76,Studio Apartment,0,32
+Kilkeary,rent,1583,Site,0,1466
+Louth County,rent,98,Studio Apartment,0,37
+Cork,rent,1215,Apartment,2,118
+Kerry County,rent,108,Studio Apartment,0,43
+Cork County,rent,1092,Townhouse,2,125
+Dun Laoghaire,sale,2189880,Detached House,5,237
+Kimmage,rent,1120,Site,0,933
+Mayo County,rent,995,End of Terrace House,4,185
+Limerick County,sale,170016,End of Terrace House,1,112
+Longford County,rent,359,Townhouse,1,93
+South Dublin,sale,1475520,Bungalow,3,212
+Leitrim County,sale,173880,Detached House,1,135
+Wexford County,sale,253692,End of Terrace House,3,162
+South Dublin,sale,965120,House,2,145
+Laois County,sale,341504,House,3,184
+Tipperary,rent,1233,Townhouse,4,169
+Offaly County,rent,1154,House,2,185
+Tipperary,sale,292695,Bungalow,2,158
+Cork,sale,245916,Townhouse,1,99
+Kimmage,sale,309000,Site,0,1030
+Louth County,sale,188214,Terraced House,2,127
+Limerick City,sale,579180,Terraced House,5,197
+Kildare County,rent,1684,Detached House,2,184
+Offaly County,rent,991,Townhouse,4,172
+Wicklow County,rent,1835,Site,0,1176
+Kilkenny County,sale,239292,House,1,153
+Tipperary,sale,215166,Duplex,3,142
+Laois County,sale,342720,End of Terrace House,5,204
+Sligo County,sale,134134,Apartment,2,134
+Kerry County,sale,151866,Apartment,2,118
+Kerry County,rent,2792,Detached House,5,277
+Kerry County,rent,1415,Detached House,2,189
+Leitrim County,rent,969,Site,0,1154
+Kilkenny County,sale,195228,Apartment,3,144
+Dun Laoghaire,rent,4607,Bungalow,2,179
+Laois County,rent,1254,Site,0,1306
+Kilkeary,sale,210105,Semi Detached House,1,145
+Tuam,sale,33880,Studio Apartment,0,44
+Tuam,rent,1566,Site,0,1186
+Sligo County,rent,1968,House,5,251
+Louth County,sale,319865,Semi Detached House,2,185
+Waterford County,rent,840,End of Terrace House,3,142
+Dun Laoghaire,rent,5198,Semi Detached House,3,194
+Kildare County,rent,1584,Apartment,5,187
+Cork,rent,4303,Bungalow,4,249
+Mullingar,sale,110055,Duplex,1,116
+Kimmage,rent,986,House,1,134
+Dun Laoghaire,sale,706629,Semi Detached House,1,133
+Wicklow County,rent,2173,End of Terrace House,5,199
+Waterford County,sale,119353,Duplex,1,111
+Offaly County,rent,757,Terraced House,3,145
+Cork,rent,2232,Bungalow,2,159
+Kilkenny County,sale,353430,Site,0,1386
+Tycor,sale,331695,Bungalow,2,189
+Kimmage,sale,387730,Semi Detached House,3,191
+Mullingar,rent,583,Apartment,2,136
+Leitrim County,sale,363776,House,4,203
+Cork,rent,2592,Duplex,5,187
+Louth County,rent,2060,Semi Detached House,4,242
+Fingal,rent,5063,Detached House,3,176
+Kilkenny County,sale,198628,Detached House,1,127
+Wicklow County,sale,170430,Townhouse,1,95
+Kildare County,sale,402325,Duplex,5,190
+Limerick City,sale,505344,End of Terrace House,4,188
+Longford County,rent,1649,Detached House,4,230
+Cavan County,rent,792,Bungalow,2,145
+Galway City,sale,42000,Studio Apartment,0,40
+Kildare County,rent,540,Terraced House,1,89
+Galway City,sale,748200,House,3,215
+Fingal,rent,373,Studio Apartment,0,43
+Sligo County,sale,291060,End of Terrace House,5,198
+Galway City,rent,1984,House,2,159
+Wexford County,sale,148005,Apartment,2,115
+Meath County,sale,303940,Semi Detached House,2,167
+Limerick City,sale,525420,Site,0,1251
+Tipperary,sale,134596,Duplex,1,112
+Galway City,rent,653,Apartment,1,86
+Limerick City,rent,1257,House,1,122
+Louth County,rent,1248,Townhouse,4,171
+Wexford County,sale,529200,Bungalow,4,245
+Waterford County,sale,233597,Semi Detached House,2,151
+Kimmage,rent,686,Duplex,2,120
+Kimmage,rent,101,Studio Apartment,0,36
+Kerry County,sale,315360,Site,0,1168
+Offaly County,sale,303188,Apartment,5,210
+Dun Laoghaire,sale,99330,Studio Apartment,0,43
+Mayo County,sale,442470,Semi Detached House,5,258
+Wexford County,sale,183195,Bungalow,1,118
+Cork County,rent,2070,Duplex,5,192
+Kilkenny County,sale,426496,Semi Detached House,4,224
+Mayo County,rent,959,Site,0,1142
+Cavan County,sale,220416,Townhouse,4,164
+Tycor,rent,2030,Bungalow,4,235
+Mullingar,rent,817,Site,0,908
+Kilkeary,rent,1331,Bungalow,3,170
+Kilkeary,sale,171288,End of Terrace House,2,122
+Louth County,sale,319200,End of Terrace House,4,175
+Offaly County,rent,762,End of Terrace House,3,146
+Donegal County,rent,289,Apartment,1,88
+Wexford County,rent,765,Semi Detached House,1,132
+Kildare County,sale,143325,Duplex,1,103
+Cork,sale,1115730,Semi Detached House,5,253
+Donegal County,rent,1010,Terraced House,5,185
+Cork,sale,1190700,Semi Detached House,5,270
+Carlow County,sale,230048,Semi Detached House,2,158
+Kerry County,rent,623,Duplex,2,121
+Mayo County,rent,421,Duplex,1,119
+Wexford County,sale,116748,End of Terrace House,1,94
+Kilkenny County,sale,348075,End of Terrace House,5,195
+Tuam,sale,250976,Detached House,1,124
+Mayo County,sale,344400,Bungalow,4,205
+Tipperary,sale,117990,End of Terrace House,1,90
+Limerick County,rent,855,Site,0,648
+Carlow County,rent,1231,Detached House,2,185
+Mayo County,rent,1008,Apartment,5,187
+Kimmage,rent,2488,Detached House,4,243
+Longford County,rent,762,Site,0,907
+Carlow County,sale,26880,Studio Apartment,0,48
+Dun Laoghaire,sale,910800,Detached House,1,150
+Longford County,sale,145383,Semi Detached House,1,129
+Carlow County,rent,559,Terraced House,2,112
+Offaly County,sale,174375,Site,0,775
+Waterford County,sale,305184,End of Terrace House,4,187
+Kilkeary,rent,1470,Site,0,1361
+Kimmage,rent,1624,Detached House,3,175
+Clare County,sale,123234,Terraced House,1,94
+Tipperary,sale,293664,Townhouse,4,161
+Mullingar,sale,468480,House,4,244
+Donegal County,sale,186914,Semi Detached House,2,158
+Cavan County,rent,866,Semi Detached House,2,170
+Wicklow County,sale,239304,Townhouse,2,118
+Clare County,sale,115368,End of Terrace House,1,88
+Tipperary,rent,1443,Semi Detached House,3,187
+Dun Laoghaire,rent,4393,House,2,160
+Kimmage,rent,1347,Semi Detached House,2,185
+Cavan County,rent,1024,Apartment,5,190
+Galway City,rent,1996,Apartment,4,189
+Louth County,sale,638400,House,5,240
+Kildare County,rent,1419,Terraced House,4,168
+Kimmage,rent,508,Terraced House,1,92
+Tuam,sale,401940,Semi Detached House,3,180
+Roscommon,sale,127764,Terraced House,2,117
+Limerick City,rent,1335,End of Terrace House,3,137
+Donegal County,sale,199056,Duplex,4,174
+Kilkenny County,sale,284648,Detached House,2,161
+Limerick County,sale,384384,Detached House,2,168
+Dun Laoghaire,sale,2356200,House,5,255
+Monaghan County,sale,239232,Terraced House,4,178
+Tycor,rent,1595,Townhouse,5,211
+South Dublin,rent,5453,Site,0,1420
+Cork County,rent,804,End of Terrace House,1,104
+Cork,sale,483552,House,1,146
+Cork County,sale,350784,Terraced House,3,144
+Roscommon,rent,658,Terraced House,3,135
+Louth County,sale,210620,Apartment,3,139
+Wicklow County,sale,327990,End of Terrace House,3,145
+Leitrim County,sale,87665,Apartment,1,99
+Mullingar,sale,225720,Duplex,4,171
+Dun Laoghaire,rent,1658,Terraced House,1,91
+Cork,rent,1792,Duplex,3,156
+Meath County,rent,98,Studio Apartment,0,35
+Kimmage,sale,378300,Site,0,1261
+Cork,rent,1160,Site,0,537
+Waterford County,sale,148291,Apartment,2,122
+Offaly County,rent,1281,House,3,184
+Donegal County,sale,134998,Semi Detached House,1,129
+Tipperary,rent,1190,Semi Detached House,2,172
+Kerry County,sale,280800,House,2,150
+Tipperary,sale,212135,Apartment,3,140
+Sligo County,rent,907,Apartment,4,184
+Fingal,rent,7047,Detached House,4,222
+Cork County,rent,2493,Townhouse,5,212
+Tuam,rent,583,Terraced House,1,96
+Limerick City,rent,2546,House,3,196
+Meath County,sale,177840,Terraced House,2,114
+Wexford County,sale,217350,Semi Detached House,1,150
+Sligo County,sale,266448,Detached House,2,183
+Kilkeary,sale,27720,Studio Apartment,0,44
+Leitrim County,rent,1016,Townhouse,4,189
+Dun Laoghaire,sale,1139424,House,2,166
+Tipperary,sale,160303,Apartment,2,118
+Galway City,sale,178020,End of Terrace House,1,86
+Monaghan County,rent,433,End of Terrace House,1,112
+Tuam,sale,480150,Site,0,1455
+Leitrim County,sale,350784,Detached House,3,216
+Carlow County,rent,1570,Semi Detached House,4,219
+Mayo County,sale,493920,Detached House,5,252
+Mayo County,sale,254678,Apartment,5,189
+Meath County,rent,466,Apartment,1,92
+Tycor,rent,951,Site,0,881
+Cork,rent,4368,House,4,237
+Donegal County,sale,18655,Studio Apartment,0,41
+Louth County,sale,427714,Bungalow,3,207
+Clare County,rent,1383,Duplex,5,189
+Tipperary,sale,409944,House,3,186
+Monaghan County,sale,305515,Semi Detached House,3,215
+Cork County,rent,1331,Duplex,3,149
+Louth County,rent,120,Studio Apartment,0,45
+Kildare County,sale,360690,Site,0,1093
+Fingal,rent,5104,Terraced House,5,196
+Galway City,rent,3226,Bungalow,4,224
+Limerick City,rent,1912,Site,0,1138
+Laois County,sale,265728,Townhouse,4,173
+Dun Laoghaire,sale,566280,Duplex,2,120
+Kilkeary,sale,455616,Semi Detached House,4,226
+Tipperary,rent,747,Townhouse,2,126
+Laois County,sale,151920,Site,0,633
+Longford County,rent,1319,House,3,203
+Cork County,sale,294630,Bungalow,1,122
+South Dublin,rent,4879,Duplex,5,198
+Meath County,sale,408900,Site,0,1363
+Roscommon,sale,187572,Townhouse,3,154
+Clare County,rent,2318,Semi Detached House,5,249
+Dun Laoghaire,sale,1867008,Detached House,4,221
+Sligo County,sale,171304,Detached House,1,133
+Louth County,rent,2713,Bungalow,5,272
+Wicklow County,rent,1962,Apartment,5,196
+Kimmage,sale,402375,Bungalow,3,185
+Meath County,sale,24500,Studio Apartment,0,35
+Clare County,rent,1545,Site,0,1355
+Offaly County,rent,908,Duplex,4,172
+Mullingar,rent,1399,House,3,201
+Dun Laoghaire,sale,1408704,House,3,184
+Kilkenny County,rent,952,Townhouse,3,161
+Meath County,sale,390775,Apartment,5,203
+Offaly County,rent,1054,Site,0,1171
+Kilkeary,sale,133205,Duplex,1,117
+Fingal,rent,286,Studio Apartment,0,33
+Tuam,rent,2944,Detached House,5,239
+Kilkenny County,sale,214209,Duplex,3,158
+Carlow County,sale,21840,Studio Apartment,0,39
+Leitrim County,rent,1952,House,5,249
+Clare County,sale,468160,Semi Detached House,4,220
+Carlow County,sale,473088,House,4,231
+Meath County,rent,1556,Detached House,2,187
+Tuam,sale,280720,Apartment,3,160
+Cork County,sale,426272,Duplex,4,173
+Waterford County,sale,461312,House,4,212
+Cork County,sale,695072,House,3,214
+Louth County,rent,130,Studio Apartment,0,49
+Louth County,sale,280896,Duplex,4,168
+Offaly County,sale,254475,Bungalow,2,174
+Dun Laoghaire,rent,5880,Detached House,3,192
+Donegal County,sale,20930,Studio Apartment,0,46
+South Dublin,rent,1784,Terraced House,1,101
+Cavan County,rent,550,End of Terrace House,2,126
+Tuam,rent,1302,Site,0,986
+Sligo County,rent,1757,Bungalow,5,239
+Limerick County,sale,267960,Terraced House,3,140
+Tuam,sale,290928,End of Terrace House,3,152
+Fingal,rent,2146,Apartment,2,121
+Kilkeary,rent,720,Bungalow,1,116
+Limerick County,sale,271216,Detached House,1,134
+Kilkenny County,rent,1230,Duplex,5,188
+Carlow County,rent,513,Site,0,534
+Louth County,sale,720860,House,5,271
+Meath County,sale,216840,Terraced House,2,139
+Kimmage,sale,141680,Duplex,1,112
+Laois County,rent,985,Site,0,1026
+Limerick County,rent,1914,Site,0,1450
+Louth County,rent,1810,Bungalow,3,219
+Roscommon,rent,459,Site,0,547
+Tycor,sale,166023,Duplex,2,129
+South Dublin,rent,2434,Duplex,2,133
+Kerry County,rent,813,Site,0,753
+Roscommon,sale,332920,House,3,205
+Mullingar,rent,1042,Detached House,2,167
+Mayo County,rent,398,End of Terrace House,1,103
+Meath County,rent,491,Apartment,1,97
+Clare County,sale,414960,Terraced House,5,208
+Limerick County,sale,311696,Apartment,4,161
+Wicklow County,rent,1795,Bungalow,2,177

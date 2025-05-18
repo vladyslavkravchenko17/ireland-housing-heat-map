@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Ireland Housing Heat Map</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" th:href="@{/css/variables.css}" />
+    <link rel="stylesheet" th:href="@{/css/layout.css}" />
+    <link rel="stylesheet" th:href="@{/css/components.css}" />
+</head>
+<body>
+<div class="layout">
+    <main class="main">
+        <div class="map-header">
+            <h1>Ireland County Housing Heat Map</h1>
+        </div>
+        <div id="map"></div>
+        <footer>
+            &copy; 2025 Vladyslav Kravchenko — Demo Project
+        </footer>
+    </main>
+
+    <aside class="sidebar">
+        <h2>Filters</h2>
+
+        <div class="filter-group">
+            <label>Listing Type</label>
+            <div class="toggle-group" id="transactionType">
+                <button class="toggle" data-value="rent">Rent</button>
+                <button class="toggle" data-value="sale">For Sale</button>
+            </div>
+        </div>
+
+        <div class="filter-group">
+            <label>Property Type</label>
+            <div class="grid-buttons" id="propertyTypes">
+                <button data-value="">Any Property</button>
+                <button data-value="House">House</button>
+                <button data-value="Detached House">Detached House</button>
+                <button data-value="Semi Detached House">Semi Detached House</button>
+                <button data-value="Terraced House">Terraced House</button>
+                <button data-value="End of Terrace House">End of Terrace House</button>
+                <button data-value="Townhouse">Townhouse</button>
+                <button data-value="Apartment">Apartment</button>
+                <button data-value="Studio Apartment">Studio Apartment</button>
+                <button data-value="Duplex">Duplex</button>
+                <button data-value="Bungalow">Bungalow</button>
+                <button data-value="Site">Site</button>
+            </div>
+        </div>
+
+        <div class="filter-group">
+            <label>Size (m²)</label>
+            <div class="min-max">
+                <select id="sizeFrom">
+                    <option value="">Min</option>
+                    <option>10</option><option>20</option><option>30</option><option>40</option><option>50</option>
+                    <option>60</option><option>70</option><option>80</option><option>90</option><option>100</option>
+                    <option>125</option><option>150</option><option>175</option><option>200</option><option>250</option>
+                    <option>300</option><option>400</option><option>500</option><option>750</option><option>1000</option>
+                    <option>2000</option>
+                </select>
+                <select id="sizeTo">
+                    <option value="">Max</option>
+                    <option>10</option><option>20</option><option>30</option><option>40</option><option>50</option>
+                    <option>60</option><option>70</option><option>80</option><option>90</option><option>100</option>
+                    <option>125</option><option>150</option><option>175</option><option>200</option><option>250</option>
+                    <option>300</option><option>400</option><option>500</option><option>750</option><option>1000</option>
+                    <option>2000</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="filter-group">
+            <label>Bedrooms</label>
+            <div class="min-max">
+                <select id="bedsFrom">
+                    <option value="">Min</option>
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option>
+                    <option>5</option><option>6</option><option>7</option><option>8</option><option>9</option>
+                    <option>10</option><option>11</option><option>12</option>
+                </select>
+                <select id="bedsTo">
+                    <option value="">Max</option>
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option>
+                    <option>5</option><option>6</option><option>7</option><option>8</option><option>9</option>
+                    <option>10</option><option>11</option><option>12</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="filter-group show-results">
+            <button id="showResultsBtn" class="show-button">SHOW RESULTS</button>
+        </div>
+    </aside>
+</div>
+
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    window.COUNTY_PRICES = /*[[${countyPrices}]]*/ [];
+    /*]]>*/
+</script>
+
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="/js/map.js" defer></script>
+</body>
+</html>
